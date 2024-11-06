@@ -1,0 +1,2 @@
+Location: Main Parking 
+Slots: 50 
